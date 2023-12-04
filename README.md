@@ -1,7 +1,6 @@
 # healthpal  
 first sem project (going to add more to it)  
 made using python and mysql (integrated)  
-heavily inspired from https://itsourcecode.com/free-projects/python-projects/health-management-system-in-python-with-source-code/  
 doctor table:
 ![image](https://github.com/Arunima-2232/healthpal/assets/145280505/1d9e5ecb-6fb4-4772-8a59-e9e6913e7fbf)
 patient table: 

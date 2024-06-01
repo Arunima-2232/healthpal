@@ -1,5 +1,5 @@
 # healthpal  
-First sem project (Work in progress)  
+First sem project
 Used: Python+MySQL
 doctor table:
 ![image](https://github.com/Arunima-2232/healthpal/assets/145280505/1d9e5ecb-6fb4-4772-8a59-e9e6913e7fbf)
